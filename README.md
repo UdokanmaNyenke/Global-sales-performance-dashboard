@@ -1,6 +1,12 @@
 # Global-sales-performance-dashboard
 Interactive Excel dashboard analyzing global sales performance across regions, countries, product categories, and sales channels, with insights into revenue, profit, costs, and units sold.
+## 📊 Dashboard Preview
 
+### Dashboard Overview
+![Global Sales Performance Dashboard](8eb8ed56-695f-4b8d-94c7-31aeecb3a707.jpeg)
+
+### Dashboard Analysis
+![Global Sales Dashboard Analysis](c8c91601-78a9-4316-8fec-9af6599485cb.jpeg)
 🎥 [Watch the project demo on LinkedIn](https://www.linkedin.com/posts/udokanma-anthony-nyenke-99864b412_just-completed-my-microsoft-excel-data-activity-7477703777937072130-aWw1?utm_source=share&utm_medium=member_ios&rcm=ACoAAGkaO8QBPiadmsQcNs6YyXb4qds1reLdTbk)
 (https://www.linkedin.com/posts/udokanma-anthony-nyenke-99864b412_microsoftexcel-dataanalytics-dataanalysis-activity-7478565055459106816-mrbG?utm_source=share&utm_medium=member_ios&rcm=ACoAAGkaO8QBPiadmsQcNs6YyXb4qds1reLdTbk)
 
